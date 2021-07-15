@@ -7,9 +7,8 @@
     </head>
     <body>
         <div class = "center">
-            <h1>Title of Paper</h1>
-            <h2>Haripriya, Bhagirath, Andrea, Mohammad</h2>
-            <h3>Project topic here!</h3>
+            <h1>Finding geographical locations in Marianne Moore's poems</h1>
+            <h2>Pradyun and Aadhavan</h2>
             <p>Insert analysis here</p>
             <h3>Our resources</h3>
             <a href="https://spacy.io/usage/linguistic-features#named-entities">Spacy Named Entity Recognition</a><br>
