@@ -14,7 +14,7 @@
             <h3>Our resources</h3>
             <a href="https://www.nltk.org/">NLTK Library</a>
             <h3>View Our Code!</h3>
-            <script src="https://gist.github.com/HaripriyaMehta/f9403a041cd14ca145dc15619faf3ec0.js"></script>
+            <script src="https://gist.github.com/pradyunSolai/301a49a9106c0181931075a3d4169118"></script>
         </div>
     </body> 
 </html>
