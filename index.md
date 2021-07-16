@@ -13,6 +13,7 @@
             <h3>Our resources</h3>
             <a href="https://spacy.io/usage/linguistic-features#named-entities">Spacy Named Entity Recognition</a><br>
             <a href="https://medium.com/spatial-data-science/how-to-extract-locations-from-text-with-natural-language-processing-9b77035b3ea4">Helpful Article</a>
+            <br>
             <h3>View Our Code!</h3>
             <script src="https://gist.github.com/pradyunSolai/96abb0bbc0a1ae0e477725a88765e062.js"></script>
         </div>
